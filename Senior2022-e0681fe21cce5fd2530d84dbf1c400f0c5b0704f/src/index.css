@@ -1,0 +1,21 @@
+* { box-sizing: border-box;
+  font-family:  "Roboto";
+  color: #9DD0D1;
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  overflow: hidden;
+  width: 100%;
+}
+
+a{
+  text-decoration:none !important ;
+}
+img{
+  margin-top: 20px;
+    margin-right: 100px;
+    width: 70px;
+    margin-left: 100px;
+}
